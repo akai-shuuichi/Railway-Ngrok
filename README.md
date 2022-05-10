@@ -6,6 +6,6 @@
 
 `NGROK_TOKEN` 中填入在 `Ngrok` 注册得到的 `Authtoken`
 
-`PORT` 中填入你搭建应用的端口，Railway 会自动将其转发到给你的域名上
+`PORT` 中填入你搭建应用的端口 
 
 `REGION` jp
