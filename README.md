@@ -1,18 +1,4 @@
-# Railway-Ngrok
 
-利用Ngrok将Railway docker内网穿透做vps使用
-
-## 一、注册 Railway 账号和 Ngrok 账号
-
-1、点击 [Railway](https://railway.app/login) 进入网站注册 Railway 账号，直接使用  github 账号登录即可
-
-2、点击 [Ngrok](https://dashboard.ngrok.com/auth) 进入网站，点击下方的 `Sign up for free!` 注册账号
-
-3、再次进入 [Ngrok](https://dashboard.ngrok.com/auth) 复制保存你的 `Authtoken`
-
-ps: Ngrok 的免费账号一个地区只能拥有一个隧道服务，所以想要部署多个项目请修改地区
-
-## 二、部署
 
 点击下方按钮部署
 
