@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:20.04
 ARG NGROK_TOKEN
 ARG REGION=jp
 ENV DEBIAN_FRONTEND=noninteractive
